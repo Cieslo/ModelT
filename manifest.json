@@ -1,6 +1,5 @@
 {
    "commerceSuiteVersion": "1905",
-   "troubleshootingModeEnabled": true,
    "extensions": [
     "adaptivesearchsolr",
     "adaptivesearchbackoffice",
