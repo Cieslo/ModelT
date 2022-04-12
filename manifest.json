@@ -25,11 +25,7 @@
        "couponfacades",
        "promotionenginesamplesaddon",
        "cmswebservices",
-       "smarteditwebservices",
-       "cmssmarteditwebservices",
        "permissionswebservices",
-       "smarteditaddon",
-       "cmssmartedit",
        "cmsbackoffice",
        "multicountrysampledataaddon",       
        "textfieldconfiguratortemplatebackoffice",
@@ -77,11 +73,6 @@
         },
         {
             "addon": "promotionenginesamplesaddon",
-            "storefront": "customsitestorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "smarteditaddon",
             "storefront": "customsitestorefront",
             "template": "yacceleratorstorefront"
         },
