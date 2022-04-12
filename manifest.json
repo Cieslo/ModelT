@@ -1,5 +1,5 @@
 {
-   "commerceSuiteVersion": "1811",
+   "commerceSuiteVersion": "6.7.0.9",
    "troubleshootingModeEnabled": true,
    "extensions": [
    	   "mcc",
@@ -47,7 +47,8 @@
        "customsiteinitialdata",
        "customsitestorefront",
        "personalizationsearchsamplesaddon",
-       "customtaskscheduler"
+       "customtaskscheduler",
+       "importcockpit"
    ],
    "storefrontAddons" : [
         {
@@ -164,6 +165,10 @@
                 {
                     "name": "backoffice",
                     "contextPath": ""
+                },
+                {
+                    "name": "importcockpit",
+                    "contextPath": "/importcockpit"
                 },
                 {
                     "name": "cmscockpit",
